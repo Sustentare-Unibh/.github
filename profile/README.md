@@ -8,7 +8,7 @@ Aqui reunimos nossos principais projetos de código aberto!
 - [Projeto 3](https://github.com/minha-organizacao/projeto3) - Descrição do projeto 3.  
 
 ## 🔧 Tecnologias Utilizadas  
-- 🖥️ **Linguagens:** Python, JavaScript, C++  
-- 🏗️ **Frameworks:** React, Flask, Django  
+- 🖥️ **Linguagens:** 
+- 🏗️ **Frameworks:** 
 
 💡 **Quer contribuir?** Sinta-se à vontade para explorar e sugerir melhorias! 🚀  
