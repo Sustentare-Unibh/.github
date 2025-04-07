@@ -1,14 +1,25 @@
-# 🚀 Bem-vindo à [Nome da Organização]  
+# 🚀 Bem-vindo à Sustentare 🌱
 
-Aqui reunimos nossos principais projetos de código aberto!  
+Aqui na **Sustentare**, usamos a tecnologia para ajudar na prevenção e comunicação de emergências causadas por forças da natureza, como enchentes e deslizamentos. 💧🌍
 
-## 📂 Repositórios Principais  
-- [Projeto 1](https://github.com/minha-organizacao/projeto1) - Descrição do projeto 1.  
-- [Projeto 2](https://github.com/minha-organizacao/projeto2) - Descrição do projeto 2.  
-- [Projeto 3](https://github.com/minha-organizacao/projeto3) - Descrição do projeto 3.  
+Nosso foco está em manter você seguro e informado!
 
-## 🔧 Tecnologias Utilizadas  
-- 🖥️ **Linguagens:** 
-- 🏗️ **Frameworks:** 
+## 📂 Repositórios Principais
+- [Mapa Interativo](https://github.com/minha-organizacao/mapa-interativo) - Visualização em tempo real de vias interditadas e áreas de risco.
+- [Sistema de Alertas](https://github.com/minha-organizacao/sistema-alertas) - Envio de e-mails de aviso para moradores de áreas afetadas.
+- [Painel Administrativo](https://github.com/minha-organizacao/painel-administrativo) - Gerencie locais reportados e mantenha as informações sempre atualizadas.
 
-💡 **Quer contribuir?** Sinta-se à vontade para explorar e sugerir melhorias! 🚀  
+## 🔧 Tecnologias Utilizadas
+- 🖥️ **Linguagens:** HTML, CSS, JavaScript
+- 🏗️ **Frameworks & Bibliotecas:** Leaflet.js, Node.js (para backend de alertas), Express.js
+
+## 💡 Quer contribuir?
+Estamos abertos a colaborações!  
+Contribua com código, ideias ou melhorias para tornar nossa comunidade ainda mais segura. 🚧✨
+
+Entre em contato e vamos construir juntos um futuro mais seguro! 🌟
+
+---
+
+> **Nota:** Este projeto é open-source e feito com ❤ pela comunidade para a comunidade.
+
